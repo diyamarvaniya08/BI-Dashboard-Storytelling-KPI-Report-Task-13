@@ -1,0 +1,8 @@
+Storytelling Insights
+1. Which product category earns most revenue
+2. Which store performs best
+3. Monthly sales trend
+4. Top-selling products
+5. Order behaviour
+
+
