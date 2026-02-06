@@ -2,7 +2,7 @@
 Interactive Power BI dashboard analyzing coffee shop sales data to track revenue trends, transaction patterns, payment methods, and top-performing coffee products using data cleaning, transformation, and visual storytelling techniques.
 
 # Task Overview
-- This task focuses on analyzing coffee shop sales data and building an interactive dashboard using Power BI. The objective is to understand sales performance, customer behavior, and revenue trends through meaningful visualizations and business insights.
+This task focuses on analyzing coffee shop sales data and building an interactive dashboard using Power BI. The objective is to understand sales performance, customer behavior, and revenue trends through meaningful visualizations and business insights.
 
 # Dataset Used
  - Dataset Name: Coffee Shop Sales
