@@ -18,7 +18,6 @@ Interactive Power BI dashboard analyzing coffee shop sales data to track revenue
 # Tools & Technologies Used
  - Power BI
  - Power Query Editor
- - Microsoft Excel
 
 # Work Performed
  - Cleaned and transformed raw data using Power Query
